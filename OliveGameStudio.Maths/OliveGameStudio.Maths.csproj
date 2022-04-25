@@ -8,6 +8,11 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>OliveGameStudio</Authors>
     <Copyright>(C) OliveGameStudio 2022</Copyright>
+    <Description>A simple maths library.
+
+Contains types:
+
+- Angle</Description>
   </PropertyGroup>
 
   <ItemGroup>
